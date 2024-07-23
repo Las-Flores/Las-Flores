@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hellooo 👋, I'm Alan Nadolski <br>
 
-<!--
-**Las-Flores/Las-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist <br>
 
-Here are some ideas to get you started:
+📍 Denmark, Midtjylland <br>
+📩Email: alan.nvdolski@gmail.com <br>
+🏢Linkedin: [Alan Nadolski](https://www.linkedin.com/in/alan-nadolski-07a7a329a/) <br>
+📱Instagram: [alan_nadolski](https://www.instagram.com/alan_nadolski/) <br>
+## About me 🌐
+Born and raised in Poland 🇵🇱 <br>
+Living in Denmark since 2021 🇩🇰 <br>
+I've been actively pursuing a data science career since early 2024. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
