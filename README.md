@@ -1,4 +1,4 @@
-# Hellooo 👋, I'm Alan Nadolski <br>
+# Hellooo 👋, I'm Alan <br>
 
 ## Data Scientist <br>
 
